@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2369ceeb-e972-4593-991e-0d3ece9d65f8" name="Changes" comment="Add data source and image files">
-      <change afterPath="$PROJECT_DIR$/images/batuhan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/app2-portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app2-portfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2369ceeb-e972-4593-991e-0d3ece9d65f8" name="Changes" comment="Day 21: Add description on the new columns">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images (1)/photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data (1).csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,15 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/PycharmProjects/app2-portfolio&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/PC/PycharmProjects/app2-portfolio",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC\PycharmProjects\app2-portfolio" />
@@ -127,12 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711721384387</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 21: Add description on the new columns">
+      <option name="closed" value="true" />
+      <created>1711726033682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711726033682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add data source and image files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add data source and image files" />
+    <MESSAGE value="Day 21: Add description on the new columns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 21: Add description on the new columns" />
   </component>
 </project>
